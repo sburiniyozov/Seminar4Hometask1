@@ -10,8 +10,6 @@ if n >= 0:
                     print('Blastoff!')
                     break
                 n -= 1
-
-
     countdown(n)
 
 else:
